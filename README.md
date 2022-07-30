@@ -17,7 +17,7 @@ AB Testi ile Bidding Yöntemlerinin Dönüşümünün Karşılaştırılması
  grubu olmak üzere iki ayrı veri seti vardır. Bu veri setleriab_testing.xlsxexcel’inin ayrı sayfalarında yer
  almaktadır. Kontrol grubuna Maximum Bidding, test grubuna AverageBiddinguygulanmıştır.
 
- impression: Reklam görüntüleme sayısı
- Click: Görüntülenen reklama tıklama sayısı
- Purchase: Tıklanan reklamlar sonrası satın alınan ürün sayısı
- Earning: Satın alınan ürünler sonrası elde edilen kazanç
+ - impression: Reklam görüntüleme sayısı
+ - Click: Görüntülenen reklama tıklama sayısı
+ - Purchase: Tıklanan reklamlar sonrası satın alınan ürün sayısı
+ - Earning: Satın alınan ürünler sonrası elde edilen kazanç
